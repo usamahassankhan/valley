@@ -1,0 +1,26 @@
+.homerow2{
+    display: flex;
+  justify-content: center;
+}
+.homerow2c1 h1{
+    font-size: 48px;
+    line-height: 70px;
+}
+.homerow2c1 h5{
+    font-size: 36px;
+    line-height: 42px;
+}
+.homerow2c1 p{
+    font-size: 18px;
+    line-height: 30px;
+    padding:50px 0px
+}
+.homerow2c1{
+    /* padding:0px 200px */
+}
+.linegray{
+    background-color: #E4E7FF;
+    width:100px;
+    height: 10px;
+    border-radius: 20px;
+}

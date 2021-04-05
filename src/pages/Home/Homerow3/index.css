@@ -1,0 +1,43 @@
+.homerow3{
+    display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  align-items: center;
+}
+.homerow3c1p h1{
+    font-size: 22px;
+    line-height: 25px;
+}
+.homerow3c1 h5{
+    font-size: 36px;
+    line-height: 42px;
+}
+.homerow3c1para p{
+    font-size: 18px;
+    line-height: 30px;
+}
+.homerow3c1{
+    /* padding:0px 200px */
+}
+.linegray1{
+    background-color: #E4E7FF;
+    width:20px;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.homerow3c1p{
+    display: flex;
+    padding: 0px;
+  
+   
+}
+.homerow3c1p img{
+    padding-right: 20px;
+  
+   
+}
+.homerow3c1para{
+    display: flex;
+    align-items: center;
+}
